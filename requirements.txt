@@ -5,5 +5,4 @@ python-multipart==0.0.20
 httpx==0.28.1
 openai==1.59.6
 twilio==9.4.1
-gradio==3.50.2
-huggingface_hub==0.19.4
+gradio==4.44.0
